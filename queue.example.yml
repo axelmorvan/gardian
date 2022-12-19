@@ -1,0 +1,7 @@
+- name: import-jobs
+  host: localhost
+  port: 6379
+  description: Import data in app
+  tags:
+    - local
+    - import

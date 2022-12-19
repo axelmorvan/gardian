@@ -1,0 +1,5 @@
+app:
+  port: 8765
+
+config:
+  queuesConfigPath: /mnt/queues.yml

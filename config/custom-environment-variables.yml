@@ -1,0 +1,5 @@
+app:
+  port: GARDIAN_APP_PORT
+
+config:
+  queuesConfigPath: GARDIAN_CONFIG_QUEUES_CONFIG_PATH
